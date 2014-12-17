@@ -33,7 +33,7 @@ function ajaxAll(){
 }
 
 function ajaxGet(id, campo){
-	return filas[id].getElementsByTagName(campo).childNodes[0].nodeValue;
+	console.log(filas[id].getElementsByTagName(campo).childNodes[0].nodeValue);
 }
 
 window.onload=ajaxJavascript('datos.xml');
