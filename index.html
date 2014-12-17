@@ -25,14 +25,14 @@ function ajaxJavascript(xml) {
 	
 }
 
-function all(){
+function ajaxAll(){
 	for (i=0;i<filas.length;i++){
 		console.log(filas[i].getElementsByTagName('NOMBRE')[0].childNodes[0].nodeValue);
 		console.log(filas[i].getElementsByTagName('APELLIDO')[0].childNodes[0].nodeValue);
 	}
 }
 
-function get(id, campo){
+function ajaxGet(id, campo){
 	return filas[id].getElementsByTagName(campo).childNodes[0].nodeValue;
 }
 
