@@ -3,6 +3,9 @@
 // Adaptada al gusto de formatcom.
 // Derechos Oficiales: Jesus
 // Codigo original http://anco.allalla.com/index.php?q=66
+
+var filas;
+
 function ajaxJavascript(xml) {
 	/* Anco AJAX */
 	var xmlhttp;
@@ -18,7 +21,7 @@ function ajaxJavascript(xml) {
 	xmlDoc=xmlhttp.responseXML;
 
 	//Dibujando el resultado
-	var filas=xmlDoc.getElementsByTagName('ROW');
+	filas=xmlDoc.getElementsByTagName('ROW');
 	
 }
 
