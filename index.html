@@ -1,0 +1,29 @@
+<script>
+// Funcion posible gracias a Jesus de http://anco.allalla.com/
+// Adaptada al gusto de formatcom.
+// Derechos Oficiales: Jesus
+// Codigo original http://anco.allalla.com/index.php?q=66
+function ajaxJavascript(xml) {
+	/* Anco AJAX */
+	var xmlhttp;
+	if (window.XMLHttpRequest) {
+		// codigo para IE7+, Firefox, Chrome, Opera, Safari
+		xmlhttp=new XMLHttpRequest();
+	} else {
+		// codigo para IE6, IE5
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	xmlhttp.open('GET', xml, false);
+	xmlhttp.send();
+	xmlDoc=xmlhttp.responseXML;
+
+	//Dibujando el resultado
+	var filas=xmlDoc.getElementsByTagName('ROW');
+	for (i=0;i<filas.length;i++){
+		console.log(filas[i].getElementsByTagName('NOMBRE')[0].childNodes[0].nodeValue);
+		console.log(filas[i].getElementsByTagName('APELLIDO')[0].childNodes[0].nodeValue);
+	}
+}
+
+window.onload=ajaxJavascript('datos.xml');
+</script>
