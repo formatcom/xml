@@ -21,20 +21,25 @@ function ajaxJavascript(xml) {
 	xmlDoc=xmlhttp.responseXML;
 
 	//Dibujando el resultado
-	filas=xmlDoc.getElementsByTagName('ROW');
+	filas=xmlDoc.getElementsByTagName('Row');
 	
 }
 
-function ajaxAll(){
+function ajaxAll(filtro, parametro){
+	var resultados = 0;
 	for (i=0;i<filas.length;i++){
-		console.log(filas[i].getElementsByTagName('NOMBRE')[0].childNodes[0].nodeValue);
-		console.log(filas[i].getElementsByTagName('APELLIDO')[0].childNodes[0].nodeValue);
+		var filtrar = parametro ? filas[i].getElementsByTagName(parametro)[0].childNodes[0].nodeValue : '';
+		if (filtrar == filtro || !filtro){
+			console.log(filas[i].getElementsByTagName('NOMBRES_Y_APELLIDOS')[0].childNodes[0].nodeValue);
+			resultados++;
+		}
 	}
+	console.log(resultados);
 }
 
 function ajaxGet(i, campo){
 	return filas[i].getElementsByTagName(campo)[0].childNodes[0].nodeValue;
 }
 
-window.onload=ajaxJavascript('datos.xml');
+window.onload=ajaxJavascript('datos2.xml');
 </script>

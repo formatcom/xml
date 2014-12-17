@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml-stylesheet type="text/xsl" href="plantilla.xsl"?>
+
+<cuadro>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Adib Guijarro</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>35976</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Alberto Ascanio</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>2</Puntas>
+		<Produccion>7010</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Alejandro Ocando</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>18</Puntas>
+		<Produccion>49392</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Alex Masoud</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC REAL &amp; BUSINEES BROKERS</OFICINA>
+		<Puntas>14</Puntas>
+		<Produccion>70070</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Alirio Valera</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>16</Puntas>
+		<Produccion>92704</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Ana Isabel Rincon</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>13</Puntas>
+		<Produccion>48126</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Ana Maria Garcia</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>18</Puntas>
+		<Produccion>43794</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Ana Penelope Silva</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>35400</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Anais Ponton</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>23760</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Andreina Collantes</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>10</Puntas>
+		<Produccion>12110</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Andreina Jordan</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Norte Servicios Inmobiliarios</OFICINA>
+		<Puntas>18</Puntas>
+		<Produccion>59796</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Andres Struve</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>6</Puntas>
+		<Produccion>6780</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Angela Añez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>10</Puntas>
+		<Produccion>52230</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Angela Moran</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>15</Puntas>
+		<Produccion>56640</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Anna Pinton</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>1</Puntas>
+		<Produccion>4529</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Annabela Zabala</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>18</Puntas>
+		<Produccion>89496</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Antonio Ojeda</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>20</Puntas>
+		<Produccion>86680</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Antonio Pezzuto</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>9</Puntas>
+		<Produccion>45486</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Ariel Villalobos</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>20</Puntas>
+		<Produccion>87920</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Aryelis Castillo</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>0</Puntas>
+		<Produccion>0</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Asmirian Medina</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>17</Puntas>
+		<Produccion>94180</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Astrid Torrealba</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC REAL &amp; BUSINEES BROKERS</OFICINA>
+		<Puntas>8</Puntas>
+		<Produccion>15200</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Audrey Yagua</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>17</Puntas>
+		<Produccion>17986</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Aura Barboza</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>0</Puntas>
+		<Produccion>0</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Aurora Montenegro</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>21968</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Benedicto Rincon</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>0</Puntas>
+		<Produccion>0</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Candida Barbati</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>11</Puntas>
+		<Produccion>17490</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Carlos Zapata</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>10</Puntas>
+		<Produccion>29140</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Carmen Pavan</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>1</Puntas>
+		<Produccion>2552</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Carolina Mavares</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>1</Puntas>
+		<Produccion>3449</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Cheryl Fuguet</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>18</Puntas>
+		<Produccion>53208</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Clara Rodriguez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>2</Puntas>
+		<Produccion>10044</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Cristina Garcia</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>0</Puntas>
+		<Produccion>0</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Dayan River Madueño</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>20</Puntas>
+		<Produccion>29320</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Daysu Morles</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>20</Puntas>
+		<Produccion>99500</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Deamrryt Rivero</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC REAL &amp; BUSINEES BROKERS</OFICINA>
+		<Puntas>2</Puntas>
+		<Produccion>7652</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Deissy Parada</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>47964</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Dirce Villalobos</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>8</Puntas>
+		<Produccion>41464</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Dolores Gonzalez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>10</Puntas>
+		<Produccion>50040</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Doris Acosta</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>9</Puntas>
+		<Produccion>51723</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Doris Quevedo</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>16</Puntas>
+		<Produccion>40848</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Edixon Espinoza</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>0</Puntas>
+		<Produccion>0</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Eliana Bracho</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>19</Puntas>
+		<Produccion>29203</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Elsa Canaan</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>15</Puntas>
+		<Produccion>65895</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Esmeralda Rondòn</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>11</Puntas>
+		<Produccion>43692</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Esther Atencio</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>20</Puntas>
+		<Produccion>106000</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Eulibeth Quintero</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>5</Puntas>
+		<Produccion>6630</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Euro Socorro</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>15</Puntas>
+		<Produccion>52200</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Evar Bracho</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>1</Puntas>
+		<Produccion>4223</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>German Valbuena</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Maracaibo Inmuebles</OFICINA>
+		<Puntas>9</Puntas>
+		<Produccion>19080</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Graciela Rodríguez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Maracaibo Inmuebles</OFICINA>
+		<Puntas>3</Puntas>
+		<Produccion>6786</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Gustavo Bauer</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>1</Puntas>
+		<Produccion>3597</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Hann Dominguez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>18</Puntas>
+		<Produccion>26838</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Harrod Corro</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>10940</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Helimenes Medina</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>11</Puntas>
+		<Produccion>58289</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Hilton Chin</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>3</Puntas>
+		<Produccion>7236</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Hugo Lopez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Maracaibo Inmuebles</OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>9404</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Humberto Matos</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>6</Puntas>
+		<Produccion>13566</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Hyllienne Domador</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>11</Puntas>
+		<Produccion>26598</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Isabel Barrios</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>61884</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Isabel Saavedra</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>11</Puntas>
+		<Produccion>26983</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jadiber Romero</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>16440</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jaidali Delgado</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Inmuebles en Falcon</OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>66576</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jaime Acevedo</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>17336</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Javier Lung</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>38760</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jesus Fuenmayor</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>10</Puntas>
+		<Produccion>29010</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jesus Urdaneta</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>13</Puntas>
+		<Produccion>57499</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Joanna Mata</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>0</Puntas>
+		<Produccion>0</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Johan Vielma</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>1</Puntas>
+		<Produccion>2980</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>John Gando</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>20</Puntas>
+		<Produccion>20080</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jose Antonio Paz</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Norte Servicios Inmobiliarios</OFICINA>
+		<Puntas>15</Puntas>
+		<Produccion>60570</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jose Luis Palacios</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>14</Puntas>
+		<Produccion>31514</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jose Sierra</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>13</Puntas>
+		<Produccion>59722</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Juan Bermudez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>8</Puntas>
+		<Produccion>44976</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Juan Carlos Gonzalez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>7</Puntas>
+		<Produccion>29638</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Juan Carlos Lopez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>13</Puntas>
+		<Produccion>78000</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Jusmery Espina </NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>16</Puntas>
+		<Produccion>52272</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Karen Melean</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Maracaibo Inmuebles</OFICINA>
+		<Puntas>13</Puntas>
+		<Produccion>33683</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Karla Monzant</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>2</Puntas>
+		<Produccion>9096</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Kilmary Romero</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>19</Puntas>
+		<Produccion>26847</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Leonardo Luzardo</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Carmiña y Asociados </OFICINA>
+		<Puntas>19</Puntas>
+		<Produccion>51870</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Leonor Carrasquero</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Maracaibo Inmuebles</OFICINA>
+		<Puntas>11</Puntas>
+		<Produccion>20273</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Leslie Linch</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>12</Puntas>
+		<Produccion>65544</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Leyde Antunez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>2</Puntas>
+		<Produccion>4902</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Lidawis Cote</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>8</Puntas>
+		<Produccion>15096</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Liliana Barrios</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Administradora El Lago</OFICINA>
+		<Puntas>7</Puntas>
+		<Produccion>21490</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Lilibeth Gonzalez</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC Mi Casa Internacional</OFICINA>
+		<Puntas>4</Puntas>
+		<Produccion>21076</Produccion>
+	</Row>
+	<Row>
+		<NOMBRES_Y_APELLIDOS>Lina Chourio</NOMBRES_Y_APELLIDOS>
+		<OFICINA>FC ANGEL PINTON</OFICINA>
+		<Puntas>7</Puntas>
+		<Produccion>36449</Produccion>
+	</Row>
+</cuadro>
